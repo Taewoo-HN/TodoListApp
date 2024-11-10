@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todolists</string>
+    <string name="add_todos">할 일 추가하기</string>
+    <!--AddtodoActivity text-->
+    <string name="title">제목</string>
+    <string name="hint_title">해야할 일을 입력해주세요</string>
+    <string name="importance">중요도</string>
+    <string name="importance_low">낮음</string>
+    <string name="importance_middle">중간</string>
+    <string name="importance_high">높음</string>
+    <string name="completion">완료</string>
+    <string name="alert_title">할 일 삭제</string>
+    <string name="alert_content">정말 삭제하시겠습니까?</string>
+    <string name="negative_btn">아니오</string>
+    <string name="positive_btn">네</string>
+
+</resources>
